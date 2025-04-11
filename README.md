@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm excited to share my coding journey and project
 ## 🌟 About Me
 
 - 🎓 **Current Status**: Aspiring developer, always eager to learn and grow.
-- 💻 **Interests**: Full-stack development, open-source contributions, and exploring new technologies.
+- 💻 **Interests**: Telegram bot development.
 - 🌱 **Currently Learning**: 
   - Backend frameworks like Express.js and Django. 
   - Cloud computing and DevOps practices.
-- 📫 **How to Reach Me**: Drop me a message on GitHub or connect with me on [LinkedIn](#).
+- 📫 **How to Reach Me**: Sorry no way
 
 ---
 
